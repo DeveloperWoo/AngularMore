@@ -1,0 +1,9 @@
+{
+  "dinner": 
+	[
+		{"food": "Pizza","price": "8.0", "calories": "800"},
+		{"food": "Water","price": "2.5", "calories": "0"},
+		{"food": "Putine","price": "5.9", "calories": "500"},
+		{"food": "Ice cream","price": "2.3", "calories": "150"}
+	]
+}
